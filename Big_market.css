@@ -1,0 +1,343 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+
+.caros1{
+    width: 100%;
+    height: 60vh;
+}
+
+.deals{
+    margin-top: 30px;
+    margin-left: 45%;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    background-color: aqua;
+    width: 160px;
+    border-radius: 7px;
+    
+}
+
+
+
+.dealofr{
+    width: 60%;
+    height: 20%;
+    left: 20%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 7px;
+    
+}
+
+.cards{
+    display: flex;
+    margin-left: 50px;
+}
+.num{
+    width: 50px;
+}
+
+.cart{
+    font-size: 13px;
+    background-color: rgb(248, 171, 70);
+    width: 70px;
+    text-align: center;
+    align-items: center;
+    height: 20px;
+    border-radius: 3px;
+}
+
+.best{
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Karla', sans-serif;
+    color: rgb(117, 111, 111);
+}
+
+
+
+.flex-contain{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 50px 10px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 30px;
+    font-family: 'Karla', sans-serif;
+    
+}
+
+
+
+.flex-box1{
+    width: 200px;
+    height: 200px;
+    border-radius: 0px;
+    margin-right: 20px;
+    font-family: 'Karla', sans-serif;
+    
+}
+
+.flex-box1 img{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.flex-box1 p{
+    color: #192a56;
+    font-family: 'Karla', sans-serif;
+}
+
+.flex-box2{
+    width: 200px;
+    height: 200px;
+    
+    margin-right: 20px;
+    
+}
+.flex-box2 p{
+    color: #192a56;
+}
+
+
+.flex-box2 img{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+
+.flex-box3{
+    width: 200px;
+    height: 200px;
+    
+    margin-right: 20px;
+    
+}
+.flex-box3 img{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.flex-box3 p{
+    color: #192a56;
+}
+
+
+.flex-box4{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.flex-box4 img{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.flex-box4 p{
+    color: #192a56;
+}
+
+.ofrs{
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+    
+    
+}
+.ofrs h2{
+    font-size: 22px;
+}
+
+.container-1{
+    border-top: 1px solid gray;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.bo1{
+    height: 200px;
+    width: 250px;
+    
+    
+
+}
+.bo1 img{
+    height: 200px;
+    width: 250px;
+
+
+}
+
+.bo2{
+    height: 200px;
+    width: 250px;
+    margin-left: 10px;
+}
+
+.bo2 img{
+    height: 200px;
+    width: 250px;
+
+}
+
+.bo3{
+    height: 200px;
+    width: 250px;
+    margin-left: 10px;
+
+}
+
+.bo3 img{
+    height: 200px;
+    width: 250px;
+}
+
+
+.bo4{
+    height: 200px;
+    width: 250px;
+    margin-left: 10px;
+
+}
+
+.bo4 img{
+    height: 200px;
+    width: 250px;
+}
+
+
+
+
+
+
+
+.h2{
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.vgfruits{
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+    
+
+}
+
+
+
+.vgfruits .frut{
+    width: 500px;
+    height: 350px;
+    border: 1px solid grey;
+    
+    
+}
+
+
+.vgfruits .frut2{
+    width: 500px;
+    height: 350px;
+    border: 1px solid grey;
+    margin-left: 30px;
+    
+}
+
+.frut img{
+    width: 490px;
+    height: 340px;
+
+}
+
+.frut2{
+    padding: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    text-align: center;
+    
+    
+    
+    
+    
+    
+}
+
+
+.frut2 .fle1{
+    
+    width: 200px;
+    height:130px;
+    margin-top: 10px;
+    align-items: center;
+    
+    
+    
+}
+.frut2 .fle1 img{
+    width: 190px;
+    height:120px;
+}
+
+
+
+
+
+.frut2 .fle2{
+    
+    width: 200px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+.frut2 .fle2 img{
+    width: 200px;
+    height: 130px;
+    
+} 
+
+
+
+
+.frut2 .fle3{
+    border: 2px solid red;
+    width: 200px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+.frut2 .fle4{
+    border: 2px solid red;
+    width: 200px;
+    height: 130px;
+    margin-top: 10px;
+}
+
+
+
